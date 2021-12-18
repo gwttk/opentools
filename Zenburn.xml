@@ -601,6 +601,7 @@ License:             GPL2
         <LexerType name="javascript.js" desc="JavaScript" ext="">
             <WordsStyle name="DEFAULT" styleID="32" fgColor="DCDCCC" bgColor="3F3F3F" fontName="Consolas" fontStyle="0" fontSize="" />
             <WordsStyle name="DEFAULT2" styleID="11" fgColor="DCDCCC" bgColor="3F3F3F" fontName="Consolas" fontStyle="0" fontSize="" />
+			<WordsStyle name="Brace highlight style" styleID="34" fgColor="FF8040" bgColor="0F0F0F" fontName="Consolas" fontStyle="0" fontSize="" />
             <WordsStyle name="INSTRUCTION WORD" styleID="5" fgColor="DFC47D" bgColor="3F3F3F" fontName="Consolas" fontStyle="1" fontSize="" keywordClass="instre1" />
             <WordsStyle name="TYPE WORD" styleID="16" fgColor="CEDF99" bgColor="3F3F3F" fontName="Consolas" fontStyle="0" fontSize="" keywordClass="type1" />
             <WordsStyle name="WINDOW INSTRUCTION" styleID="19" fgColor="FFCFAF" bgColor="3F3F3F" fontName="Consolas" fontStyle="1" fontSize="" keywordClass="instre2" />
